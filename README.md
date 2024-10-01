@@ -56,10 +56,9 @@
 ---
 
 ### 🔥 My GitHub Stats
-<p align="center">
+
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sadeepanherath&show_icons=true&locale=en" alt="sadeepanherath" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeepanherath&" alt="sadeepanherath" />
-</p>
 
 <br>
 <br>
