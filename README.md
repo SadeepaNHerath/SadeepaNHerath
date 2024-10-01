@@ -46,7 +46,7 @@
   *Learning Full-Stack Development (ICD Program)*
 
 - **Maliyadeva College, Kurunegala**  
-  *Passed A/Ls with 3As and a Z-score of 2.1919*
+  
 
 ---
 
