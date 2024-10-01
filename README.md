@@ -4,7 +4,7 @@
 <h3 align="center">I'm a trainee full-stack developer with experience in HTML, CSS, JS, Bootstrap, Spring Boot, Java, and JavaFX. I love building projects that solve real-world problems and am always excited to learn new technologies. I also enjoy sharing my knowledge through my social platforms.</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Gamer;Waiting+For+University+Intake+UOM+AI;Social+Meadia+Content+Creater;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Gamer;Social+Meadia+Content+Creater;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <p align="center">  
@@ -57,8 +57,8 @@
 
 ### 🔥 My GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadeepanherath&show_icons=true&locale=en" alt="sadeepanherath" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeepanherath&" alt="sadeepanherath" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sadeepanherath&show_icons=true&locale=en" alt="sadeepanherath" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeepanherath&" alt="sadeepanherath" />
 </p>
 
 <br>
