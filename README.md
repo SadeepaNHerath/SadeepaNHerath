@@ -1,89 +1,169 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
-<h1 align="center">Hi 👋, I'm Sadeepa Herath</h1>
-<h3 align="center">I'm a trainee full-stack developer with experience in HTML, CSS, JS, Bootstrap, Spring Boot, Java, and JavaFX. I love building projects that solve real-world problems and am always excited to learn new technologies. I also enjoy sharing my knowledge through my social platforms.</h3>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Gamer;Social+Meadia+Content+Creater;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=sadeepanherath&label=Profile%20views&color=0e75b6&style=flat" alt="sadeepanherath" /> 
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-blue" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-blue" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-blue" />
-</p>
-
----
-
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
-
-### 🔥 About Me
-- 🌱 I’m currently learning **Node.js, Angular, React, Spring Boot**.
-- 💻 I enjoy working on projects using **Java, HTML, CSS, JavaScript**.
-- ⚡ Fun fact: **I communicate with people more on social media than in public**.
-- 🎮 In my free time, I’m also a gamer and a social media content creater.
-
----
-
-### 🏆 Achievements
-- Completed multiple full-stack projects using **Spring Boot, Java, and JavaScript**.
-- Participated in collaborative development.
-- Deployed web applications on various platforms.
-
----
-
-### 🎓 Education
-
-- **University of Moratuwa**  
-  *Selected for the AI Degree Program (Awaiting Intake)*
-
-- **iCET Institute**  
-  *Learning Full-Stack Development (ICD Program)*
-
-- **Maliyadeva College, Kurunegala**  
+<div align="center">
   
+  # SADEEPA HERATH
+  
+  ### `Software Engineer` • `AI Specialist` • `Full-Stack Developer`
 
----
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/e64bf5ee-9372-42ef-bc85-31588989c104)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  <p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=440&lines=Artificial+Intelligence;Full-Stack+Development;Problem+Solver;Innovation+Enthusiast" alt="Typing SVG" /></a>
+  </p>
+  
+  <a href="https://github.com/sadeepanherath"><img src="https://img.shields.io/github/followers/sadeepanherath?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img src="https://komarev.com/ghpvc/?username=sadeepanherath&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views"/>
+  
+</div>
 
----
-
-### 🔥 My GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadeepanherath&show_icons=true&locale=en" alt="sadeepanherath" />
-  <br>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeepanherath&" alt="sadeepanherath" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sadeepanherath&theme=darkhub&title=-Followers" alt="sadeepanherath" />
+  </a>
 </p>
-
-<br>
-<br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadeepanherath" alt="sadeepanherath" /></a> </p>
-
-<br>
-
-<p align="right">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadeepanherath&show_icons=true&locale=en&layout=compact" alt="sadeepanherath" />
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sadeepanherath&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sadeepanherath&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sadeepanherath&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
 </p>
 
 ---
 
-### 📫 Contact Me
-Feel free to reach out for collaborations, discussions, or just to say hi!
+<div align="center">
+  <h2>💻 Tech Stack & Tools</h2>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,angular,nodejs,html,css,bootstrap,python,mysql,git,figma,postman&perline=5" alt="Tech Stack" />
+</div>
 
-<p align="left">
-<a href="[https://linkedin.com/in/sadeepa-herath](https://www.linkedin.com/in/sadeepa-herath-02ab67310?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVvOP0mtvTF%2B%2Frh42VstLfg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadeepa herath" height="30" width="40" /></a>
-<a href="[https://fb.com/sadeepa.herath](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbXB0cVZtWkZ6Y0dtNUdXZTUwMHpfMXQzUUE2Z3xBQ3Jtc0tuWWRMdk54VzM3RllRcWpBUHhRaEdkSmpLb3lrcnpiUExVdzhGbThTNGNwUXhmLTBWWWo3elpCSUVZckJYMEFmRkpsdWxNV3N0VHZPMHFvTXlGZTF2dk1KdHV6M3dEeDlxT00zWTVwZDBoSG1PYlUyYw&q=https%3A%2F%2Fwww.facebook.com%2FSadeepaNHerath%3Fmibextid%3DZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadeepa herath" height="30" width="40" /></a>
-<a href="[https://instagram.com/sadeepa_herath_18](https://www.instagram.com/sadeepa_herath_18/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadeepa_herath_18" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/sadeepa_n_herath](https://www.youtube.com/channel/UCrpBXjLBkbOmI-6UPaoU7ag)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadeepa n herath" height="30" width="40" /></a>
-<a href="mailto:sadeepahearth@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" /></a>
-</p>
+---
+
+<div>
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="AI Developer" width="200" />
+  
+  ## 🧠 Professional Journey
+  
+  I'm a full-stack developer and AI specialist focused on creating intelligent software solutions. With expertise in Java, JavaScript, Spring Boot, React, and emerging AI technologies, I bring a unique blend of software engineering fundamentals and cutting-edge AI knowledge.
+  
+  #### 🎯 Specialized In:
+  - Building intelligent web applications with modern frameworks
+  - Integrating AI capabilities into software solutions
+  - Developing responsive, scalable backend systems
+  - Creating intuitive user interfaces with attention to detail
+  
+  #### 🔍 Currently Exploring:
+  - Deep learning architectures
+  - Natural language processing
+  - Cloud-native development
+  - Progressive Web Apps (PWAs)
+</div>
+
+---
+
+<div>
+  <h2>🎓 Education & Qualifications</h2>
+  
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60px" /></td>
+        <td><strong>University of Moratuwa</strong><br>Bachelor's in AI UG<br>1st year student</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="60px" /></td>
+        <td><strong>iCET Institute</strong><br>Professional Certificate in Full-Stack Development<br>Comprehensive training in modern web technologies</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="60px" /></td>
+        <td><strong>Maliyadeva College, Kurunegala</strong><br>Secondary Education<br>Strong foundation in mathematics and sciences</td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+---
+
+<div>
+  <h2>🚀 Professional Highlights</h2>
+  
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadeepanherath&theme=tokyo-night&hide_border=true" width="95%" alt="activity graph">
+  </div>
+  
+  <details>
+    <summary><b>🔵 Software Development</b></summary>
+    <ul>
+      <li>Built enterprise-grade web applications with Spring Boot and React</li>
+      <li>Implemented secure RESTful APIs with proper authentication</li>
+      <li>Created responsive designs with modern CSS frameworks</li>
+      <li>Applied clean code principles and design patterns</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><b>🔵 AI & Machine Learning</b></summary>
+    <ul>
+      <li>Developed ML models for predictive analytics</li>
+      <li>Implemented data processing pipelines</li>
+      <li>Explored natural language processing techniques</li>
+      <li>Applied AI algorithms to solve real-world problems</li>
+    </ul>
+  </details>
+  
+  <details>
+    <summary><b>🔵 Project Management</b></summary>
+    <ul>
+      <li>Led cross-functional teams in agile environments</li>
+      <li>Managed project timelines and deliverables</li>
+      <li>Facilitated client meetings and requirement gathering</li>
+      <li>Implemented effective version control strategies</li>
+    </ul>
+  </details>
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 Contribution Activity</h2>
+  
+  ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
+
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  
+  <a href="https://www.linkedin.com/in/sadeepa-herath-02ab67310" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/SadeepaNHerath" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/sadeepa_herath_18/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCrpBXjLBkbOmI-6UPaoU7ag" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:sadeepahearth@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://medium.com/@sadeepanithushika" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
